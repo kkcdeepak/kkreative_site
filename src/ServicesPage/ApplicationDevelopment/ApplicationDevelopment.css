@@ -1,0 +1,38 @@
+.application-development {
+  width: var(--container-width-lg);
+  margin: 0 auto;
+  margin-top: 9rem;
+}
+
+.application-development h1,
+.application-development-services h2,
+.application-development-services h4 {
+  color: var(--color-primary);
+}
+
+.application-development h1,
+.application-development-services h2 {
+  margin-bottom: 1.2rem;
+}
+
+.application-development p {
+  margin-bottom: 1rem;
+}
+
+.application-development button {
+  margin-top: 2rem;
+}
+
+.application-development-services {
+  width: var(--container-width-lg);
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.application-development-services p {
+  margin-bottom: 1rem;
+}
+
+.application-development-services .services-list {
+  padding-left: 3rem;
+}

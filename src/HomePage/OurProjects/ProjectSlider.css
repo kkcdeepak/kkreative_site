@@ -1,0 +1,24 @@
+.project-slider {
+  width: var(--container-width-lg);
+  margin: 0 auto;
+  padding: 8rem 0;
+}
+
+
+.project-slider h2 {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+}
+
+.slick-arrow.slick-next:before {
+  content: "";
+}
+
+.slick-arrow.slick-prev:before {
+  content: "";
+}
+
+.project-slider .slick-track {
+  display: flex;
+  align-items: center;
+}
